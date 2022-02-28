@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=koios)](https://solved.ac/koios)
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=koios)](https://solved.ac/koios)
+ -->
